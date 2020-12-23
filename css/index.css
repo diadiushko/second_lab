@@ -164,6 +164,7 @@ article img {
 
 /* footer */
 footer {
+  margin-top: 50px;
   max-width: 1920px;
   background: linear-gradient(to right, #83097e, #081078);
   text-align: center;
